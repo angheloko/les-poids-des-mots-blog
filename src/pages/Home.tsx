@@ -6,12 +6,10 @@ export default function Home() {
     <div className="space-y-16">
       <section className="mb-20 border-l-4 border-solarized-base01 pl-6 py-2">
         <h1 className="text-5xl font-serif font-bold text-solarized-base01 mb-6 tracking-tight">
-          Notes & Thoughts
+          Notes & Pensées
         </h1>
         <p className="text-lg text-solarized-base00 font-mono leading-relaxed max-w-xl">
-          // A collection of essays on design, engineering, and the philosophy of building software.
-          <br />
-          // Status: Archiving...
+          // Ce blog est pour le Bureau de la Cohérence. C’est pour mon sync.
         </p>
       </section>
 

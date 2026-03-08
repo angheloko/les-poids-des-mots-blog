@@ -44,17 +44,17 @@ export default function Layout() {
         )}
       </AnimatePresence>
 
-      <div className="max-w-3xl mx-auto px-6 py-12 w-full flex-grow flex flex-col relative z-10">
-        <header className="flex justify-between items-baseline mb-16 border-b-2 border-solarized-base01 pb-4 border-dashed">
-          <Link to="/" className="text-3xl font-serif font-bold text-solarized-base01 hover:text-solarized-orange transition-colors tracking-tight">
-            Ink & Light
+      <div className="max-w-3xl mx-auto px-6 py-8 md:py-12 w-full flex-grow flex flex-col relative z-10">
+        <header className="flex flex-col md:flex-row justify-between items-center md:items-baseline mb-10 md:mb-16 border-b-2 border-solarized-base01 pb-6 md:pb-4 border-dashed gap-4 md:gap-0">
+          <Link to="/" className="text-3xl md:text-3xl font-serif font-bold text-solarized-base01 hover:text-solarized-orange transition-colors tracking-tight text-center md:text-left">
+            Les Poids des Mots
           </Link>
           <nav className="flex gap-6 text-sm font-mono uppercase tracking-widest text-solarized-base01">
             <Link to="/" className="hover:underline decoration-1 underline-offset-4">
               Journal
             </Link>
             <Link to="/about" className="hover:underline decoration-1 underline-offset-4">
-              About
+              À Propos
             </Link>
           </nav>
         </header>
@@ -96,10 +96,7 @@ export default function Layout() {
         </main>
 
         <footer className="mt-24 pt-8 border-t-2 border-solarized-base2 border-dotted text-center text-xs font-mono text-solarized-base1">
-          <p>&copy; {year} Ink & Light. System Status: ONLINE.</p>
-          <p className="mt-2 opacity-70">
-            Rendering: E-Ink Simulation Mode
-          </p>
+          <p>&copy; {year} Les Poids des Mots</p>
         </footer>
       </div>
     </div>
