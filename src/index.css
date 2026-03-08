@@ -1,0 +1,90 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&family=EB+Garamond:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400;1,500;1,600;1,700;1,800&display=swap');
+
+@theme {
+  --color-solarized-base03: #002b36;
+  --color-solarized-base02: #073642;
+  --color-solarized-base01: #586e75;
+  --color-solarized-base00: #657b83;
+  --color-solarized-base0: #839496;
+  --color-solarized-base1: #93a1a1;
+  --color-solarized-base2: #eee8d5;
+  --color-solarized-base3: #fdf6e3;
+  --color-solarized-yellow: #b58900;
+  --color-solarized-orange: #cb4b16;
+  --color-solarized-red: #dc322f;
+  --color-solarized-magenta: #d33682;
+  --color-solarized-violet: #6c71c4;
+  --color-solarized-blue: #268bd2;
+  --color-solarized-cyan: #2aa198;
+  --color-solarized-green: #859900;
+
+  --font-serif: "EB Garamond", "Georgia", serif;
+  --font-sans: "EB Garamond", "Georgia", serif; /* Replacing Sans with Serif for 'Official' feel */
+  --font-mono: "Courier Prime", "Courier New", monospace;
+}
+
+@layer base {
+  body {
+    @apply bg-solarized-base3 text-solarized-base00 font-mono antialiased;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-serif font-bold text-solarized-base01 tracking-tight;
+  }
+
+  a {
+    @apply text-solarized-blue hover:text-solarized-orange transition-colors duration-200 underline decoration-1 underline-offset-2;
+  }
+
+  code {
+    @apply font-mono text-solarized-magenta bg-solarized-base2 px-1 py-0.5 rounded text-sm border border-solarized-base1/20;
+  }
+
+  pre {
+    @apply bg-solarized-base2 p-4 rounded-none border border-solarized-base1/50 overflow-x-auto my-4 shadow-[2px_2px_0px_0px_var(--color-solarized-base1)];
+  }
+  
+  pre code {
+    @apply bg-transparent p-0 text-solarized-base00;
+  }
+
+  blockquote {
+    @apply border-l-2 border-solarized-base01 pl-4 italic text-solarized-base01 my-6 font-serif text-lg;
+  }
+}
+
+@utility bg-dither {
+  background-image: radial-gradient(var(--color-solarized-base1) 0.5px, transparent 0.5px);
+  background-size: 4px 4px;
+}
+
+@utility prose-solarized {
+  --tw-prose-body: var(--color-solarized-base00);
+  --tw-prose-headings: var(--color-solarized-base01);
+  --tw-prose-links: var(--color-solarized-blue);
+  --tw-prose-bold: var(--color-solarized-base01);
+  --tw-prose-counters: var(--color-solarized-base1);
+  --tw-prose-bullets: var(--color-solarized-base1);
+  --tw-prose-hr: var(--color-solarized-base2);
+  --tw-prose-quotes: var(--color-solarized-base01);
+  --tw-prose-quote-borders: var(--color-solarized-base1);
+  --tw-prose-captions: var(--color-solarized-base1);
+  --tw-prose-code: var(--color-solarized-magenta);
+  --tw-prose-pre-code: var(--color-solarized-base00);
+  --tw-prose-pre-bg: var(--color-solarized-base2);
+  --tw-prose-th-borders: var(--color-solarized-base2);
+  --tw-prose-td-borders: var(--color-solarized-base2);
+  
+  /* Override font families for prose */
+  font-family: var(--font-mono);
+}
+
+/* Custom utility to target headings within prose and force Serif */
+.prose-solarized h1, 
+.prose-solarized h2, 
+.prose-solarized h3, 
+.prose-solarized h4 {
+  font-family: var(--font-serif);
+}
