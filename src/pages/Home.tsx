@@ -42,7 +42,7 @@ export default function Home() {
               to={`/post/${post.slug}`}
               className="inline-flex items-center text-xs font-mono font-bold text-solarized-blue hover:text-solarized-orange transition-colors uppercase tracking-widest border-b border-transparent hover:border-solarized-orange"
             >
-              [ Read File ]
+              [ Lire l'article ]
             </Link>
           </article>
         ))}

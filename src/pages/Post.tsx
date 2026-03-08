@@ -10,9 +10,9 @@ export default function Post() {
   if (!post) {
     return (
       <div className="text-center py-20 font-mono">
-        <h1 className="text-3xl font-bold text-solarized-red mb-4">ERROR: FILE_NOT_FOUND</h1>
+        <h1 className="text-3xl font-bold text-solarized-red mb-4">ERREUR : FICHIER_INTROUVABLE</h1>
         <Link to="/" className="text-solarized-blue hover:underline">
-          [ Return to Index ]
+          [ Retour à l'accueil ]
         </Link>
       </div>
     );
@@ -25,7 +25,7 @@ export default function Post() {
         className="inline-flex items-center text-xs font-mono text-solarized-base1 hover:text-solarized-blue mb-10 transition-colors group uppercase tracking-widest"
       >
         <ArrowLeft className="w-3 h-3 mr-2 group-hover:-translate-x-1 transition-transform" />
-        ../Back_to_Index
+        ../Retour_à_l_accueil
       </Link>
 
       <header className="mb-12 pb-8 border-b-2 border-solarized-base2 border-dashed">
@@ -40,9 +40,9 @@ export default function Post() {
           {post.title}
         </h1>
         <div className="flex items-center gap-4 text-xs font-mono text-solarized-base1">
-          <time dateTime={post.date}>DATE: {post.date}</time>
+          <time dateTime={post.date}>DATE : {post.date}</time>
           <span>|</span>
-          <span>EST_READ: {post.readTime}</span>
+          <span>LECTURE_ESTIMÉE : {post.readTime}</span>
         </div>
       </header>
 
@@ -57,7 +57,7 @@ export default function Post() {
           to="/" 
           className="text-solarized-blue hover:text-solarized-orange font-bold uppercase tracking-widest"
         >
-          &lt;&lt; Return to Archive
+          &lt;&lt; Retour aux archives
         </Link>
       </div>
     </article>
