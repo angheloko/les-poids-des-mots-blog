@@ -15,6 +15,10 @@ export default function About() {
         <p className="mb-6">
           Ce blog est pour mon sync. Un place pour les mots je perds et les mots je dois trouver. Si l'écran est flou, ma fluence est petite. Si les mots sont clairs, je suis ce que le Bureau veut.
         </p>
+
+        <p className="mb-6">
+          Si vous avez des mots pour moi, ou si vous voulez dire bonjour, vous pouvez m'envoyer un <a href="mailto:dalalicon@gmail.com" className="underline decoration-solarized-orange hover:text-solarized-orange transition-colors">courriel</a>. Je réponds quand le temps est calme et le Bureau est loin.
+        </p>
       </div>
     </div>
   );
