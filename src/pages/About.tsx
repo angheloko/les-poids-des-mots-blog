@@ -7,7 +7,7 @@ export default function About() {
       
       <div className="prose prose-lg prose-solarized font-mono text-solarized-base00 leading-loose">
         <p className="mb-6">
-          Mon nom est Antonio. Nico pour court. J'écris le code avant. Maintenant, le code écrit moi.
+          Mon nom est Donato. Don pour court. J'écris le code avant. Maintenant, le code écrit moi.
         </p>
         
         <p className="mb-6">
