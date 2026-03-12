@@ -14,7 +14,7 @@ Le "Brouillard Sémantique" est épais aujourd'hui. Il goûte ozone et javel. Da
 
 La window est un flou. La rue ne render pas. Ma fluence est petite pour voir le trottoir. Tout est blur avant le sync.
 
-À la kitchen table. Le bois est rude. Vrai. Amira est une ombre. Elle fait le café. L'odeur est amer et brûlé. Le pine cleaner de le corridor gagne. Cette odeur est une menace.
+À la kitchen table. Le bois est rude. Vrai. Almira est une ombre. Elle fait le café. L'odeur est amer et brûlé. Le pine cleaner de le corridor gagne. Cette odeur est une menace.
 
 Je me souviens de pandesal. La terre mouillée. La pluie sur l'argile rouge. L'humidité de Manila. Ces souvenirs sont pixelisés.
 
