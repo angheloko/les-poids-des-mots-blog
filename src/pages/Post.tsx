@@ -2,14 +2,44 @@ import { useParams, Link } from 'react-router-dom';
 import Markdown from 'react-markdown';
 import { posts } from '../lib/posts';
 import { ArrowLeft } from 'lucide-react';
+import SEO from '../components/SEO';
+import { useEffect } from 'react';
 
 export default function Post() {
   const { slug } = useParams();
   const post = posts.find((p) => p.slug === slug);
 
+  useEffect(() => {
+    if (!post) return;
+
+    const structuredData = {
+      "@context": "https://schema.org",
+      "@type": "BlogPosting",
+      "headline": post.title,
+      "description": post.excerpt,
+      "author": {
+        "@type": "Person",
+        "name": "Donato"
+      },
+      "datePublished": post.date,
+      "url": `https://les-poids-des-mots.blog/post/${post.slug}`,
+      "image": "https://les-poids-des-mots.blog/favicon.svg"
+    };
+
+    const script = document.createElement('script');
+    script.type = 'application/ld+json';
+    script.innerHTML = JSON.stringify(structuredData);
+    document.head.appendChild(script);
+
+    return () => {
+      document.head.removeChild(script);
+    };
+  }, [post]);
+
   if (!post) {
     return (
       <div className="text-center py-20 font-mono">
+        <SEO title="404: FICHIER_INTROUVABLE" />
         <h1 className="text-3xl font-bold text-solarized-red mb-4">ERREUR : FICHIER_INTROUVABLE</h1>
         <Link to="/" className="text-solarized-blue hover:underline">
           [ Retour à l'accueil ]
@@ -20,6 +50,12 @@ export default function Post() {
 
   return (
     <article className="max-w-none">
+      <SEO 
+        title={post.title} 
+        description={post.excerpt} 
+        type="article" 
+        slug={`post/${post.slug}`} 
+      />
       <Link 
         to="/" 
         className="inline-flex items-center text-xs font-mono text-solarized-base1 hover:text-solarized-blue mb-10 transition-colors group uppercase tracking-widest"

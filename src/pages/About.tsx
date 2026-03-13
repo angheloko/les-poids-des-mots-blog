@@ -1,6 +1,13 @@
+import SEO from '../components/SEO';
+
 export default function About() {
   return (
     <div className="max-w-2xl">
+      <SEO 
+        title="À Propos" 
+        description="L'histoire de Donato, un développeur de Manille à Montréal, documentant son intégration dans la grille sémantique."
+        slug="about"
+      />
       <h1 className="text-5xl font-serif font-bold text-solarized-base01 mb-10 tracking-tight">À Propos</h1>
       
       <div className="prose prose-lg prose-solarized font-mono text-solarized-base00 leading-loose">

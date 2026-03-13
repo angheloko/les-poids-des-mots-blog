@@ -1,9 +1,11 @@
 import { Link } from 'react-router-dom';
 import { posts } from '../lib/posts';
+import SEO from '../components/SEO';
 
 export default function Home() {
   return (
     <div className="space-y-16">
+      <SEO />
       <section className="mb-20 border-l-4 border-solarized-base01 pl-6 py-2">
         <h1 className="text-5xl font-serif font-bold text-solarized-base01 mb-6 tracking-tight">
           Notes & Pensées
