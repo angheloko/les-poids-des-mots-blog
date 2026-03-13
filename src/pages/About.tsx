@@ -24,7 +24,7 @@ export default function About() {
         </p>
 
         <p className="mb-6">
-          Si vous avez des mots pour moi, ou si vous voulez dire bonjour, vous pouvez m'envoyer un <a href="mailto:dalalicon@gmail.com" className="underline decoration-solarized-orange hover:text-solarized-orange transition-colors">courriel</a>. Je réponds quand le temps est calme et le Bureau est loin.
+          Si vous avez des mots pour moi, ou si vous voulez dire bonjour, vous pouvez m'envoyer un <a href="mailto:angheloko@gmail.com" className="underline decoration-solarized-orange hover:text-solarized-orange transition-colors">courriel</a>. Je réponds quand le temps est calme et le Bureau est loin.
         </p>
       </div>
     </div>
