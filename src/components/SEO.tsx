@@ -10,7 +10,7 @@ interface SEOProps {
 
 const SITE_NAME = 'Les Poids des Mots';
 const DEFAULT_DESCRIPTION = 'A digital chronicle of integration into the semantic grid. From the "Low-Res" humidity of Manila to the "High-Def" sterile halls of Montréal, Donato documents the price of belonging. Ma fluence est mon prix. My words are being deleted. Un monde qui demande d’oublier.';
-const BASE_URL = 'https://les-poids-des-mots.blog'; // Replace with actual domain if known
+const BASE_URL = 'https://les-poids-des-mots.com'; // Replace with actual domain if known
 
 export default function SEO({ 
   title, 

@@ -22,8 +22,8 @@ export default function Post() {
         "name": "Donato"
       },
       "datePublished": post.date,
-      "url": `https://les-poids-des-mots.blog/post/${post.slug}`,
-      "image": "https://les-poids-des-mots.blog/favicon.svg"
+      "url": `https://les-poids-des-mots.com/post/${post.slug}`,
+      "image": "https://les-poids-des-mots.com/favicon.svg"
     };
 
     const script = document.createElement('script');

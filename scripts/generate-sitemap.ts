@@ -2,7 +2,7 @@ import fs from 'fs';
 import path from 'path';
 import frontMatter from 'front-matter';
 
-const BASE_URL = 'https://les-poids-des-mots.blog';
+const BASE_URL = 'https://les-poids-des-mots.com';
 const POSTS_DIR = path.join(process.cwd(), 'src/content/posts');
 const PUBLIC_DIR = path.join(process.cwd(), 'public');
 
