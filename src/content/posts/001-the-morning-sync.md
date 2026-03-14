@@ -10,7 +10,7 @@ tags:
 readTime: 2 min de lecture
 ---
 
-Le "Brouillard Sémantique" est épais aujourd'hui. Il goûte ozone et javel. Dans ma gorge, un film froid. Isabella respire. Rhythmique. Parfait. Machine-tooled. Mes poumons sont heavy. Pas synchro.
+Le "Brouillard Sémantique" est épais aujourd'hui. Il goûte ozone et javel. Dans ma gorge, un film froid. Isabella respire. Rhythmique. Parfait. Précis. Mes poumons sont heavy. Pas synchro.
 
 La window est un flou. La rue ne render pas. Ma fluence est petite pour voir le trottoir. Tout est blur avant le sync.
 
