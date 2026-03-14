@@ -16,7 +16,7 @@ Isabella joue avec un truck en plastique. C'est un flou de couleurs. Je n'ai pas
 
 Je regarde la porte. Le scanner est là. Un œil de verre. C'est un device de "Phono-Sync." Il regarde ma marche. Il calcule ma sueur. Il devine mes pensées. C'est un algorithme paranoïaque.
 
-J'ai essayé de dire "Magandang umaga" à Almira. Ma langue a frappé un mur. Un glitch physique. Le parasite de le Bureau a serré. Les murs sont devenus static gris. Je ne voyais pas la table. Je ne voyais pas ma fille.
+J'ai essayé de dire "Magandang umaga" à Almira. Ma langue a frappé un mur. Un glitch physique. Mes pensées sont parties à Manila, et le monde est devenu flou. Les murs sont devenus static gris. Je ne voyais pas la table. Je ne voyais pas ma fille.
 
 "Bonjour," j'ai dit avec force.
 

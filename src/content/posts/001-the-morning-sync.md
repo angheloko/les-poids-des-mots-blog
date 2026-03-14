@@ -18,7 +18,7 @@ La window est un flou. La rue ne render pas. Ma fluence est petite pour voir le 
 
 Je me souviens de pandesal. La terre mouillée. La pluie sur l'argile rouge. L'humidité de Manila. Ces souvenirs sont pixelisés.
 
-Le Bureau de la Cohérence envoie un notification. Un chirp High-Res. "Synchronisation Cardiaque." Mon pouls est high. La lumière bleue cherche des pensées interdites. Si je échoue, je perds des credits. Plus de "Rafraîchissement de la Fluence." Ils me strap dans le pod. Des vidéos strobe et loops binaural dans ma tête. La *Chanson de la Cohérence* partout. Ils pompent des mots—*cohésion, intégration, clarté*—dans mon cerveau. Ma langue native—le Tagalog—est comme une pierre. Un glitch.
+Le Bureau de la Cohérence envoie un notification. Un chirp High-Res. "Synchronisation Cardiaque." Mon pouls est high. La lumière bleue cherche des pensées interdites. Si je échoue, je perds des credits. Plus de "Rafraîchissement de la Fluence." Ils me ferment dans la salle. Des vidéos et loops dans ma tête. La *Chanson de la Cohérence* partout. Ils pompent des mots—*cohésion, intégration, clarté*—dans mon cerveau. Ma langue native—le Tagalog—est comme une pierre. Un glitch.
 
 J'étais un programmeur brillant. Maintenant, je suis un immigrant glitchy. Mes fingers sont de plomb. Le brouillard est dans mes articulations.
 
