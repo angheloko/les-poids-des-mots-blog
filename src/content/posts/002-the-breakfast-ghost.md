@@ -4,7 +4,6 @@ slug: the-breakfast-ghost
 date: 2026-03-11
 excerpt: Le pain pandesal est sec. Le scanner au-dessus de la porte nous regarde. Ma langue est glitchy.
 tags:
-  - Le Brouillard
   - Acte I
   - Survie
 readTime: 2 min de lecture

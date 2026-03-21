@@ -4,7 +4,6 @@ slug: 003-the-overwritten-beach
 date: 2026-03-15
 excerpt: Je suis sur le chemin du travail. Je perds des souvenirs pour la clarté. Je me souviens de ma première session de rafraîchissement.
 tags:
-  - Le Brouillard
   - Acte I
   - La Plage Effacée
 readTime: 3 min de lecture

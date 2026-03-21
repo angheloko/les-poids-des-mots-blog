@@ -4,9 +4,8 @@ slug: the-morning-sync
 date: 2026-03-08
 excerpt: Le Brouillard Sémantique est épais aujourd'hui. Je me réveille dans un monde qui refuse de s'afficher tant que je ne me suis pas synchronisé avec la machine.
 tags:
-  - Le Brouillard
   - Acte I
-  - Souvenirs de Manille
+  - Le Brouillard
 readTime: 2 min de lecture
 ---
 
