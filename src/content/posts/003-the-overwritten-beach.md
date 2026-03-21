@@ -12,11 +12,11 @@ readTime: 3 min de lecture
 
 Le train est un tube de lumière blanche. Je suis entre un homme en *suit* bleu et une femme avec un *tablet*. Leurs faces sont claires. Ma face est un flou dans la *window*. Je dois *sync*.
 
-Je me souviens le premier "Rafraîchissement de la Fluence." Il y a trois ans. La chambre était blanche. Trop blanche. Ils m'ont attaché. Un métal froid sur mes temples. Ça bourdonne dans ma tête. Ils ont joué la *Chanson de la Cohérence* six heures.
+Je me souviens le premier "Rafraîchissement de la Fluence." Il y a onze mois. La chambre était blanche. Trop blanche. Ils m'ont attaché. Un métal froid sur mes temples. Ça bourdonne dans ma tête. Ils ont joué la *Chanson de la Cohérence* six heures.
 
 Quand mon cerveau allait à l'humidité de Manila, à le goût de *isaw* dans la rue, le métal serrait. Du *static* dans ma mâchoire. Ma vision était brisée. Des pixels gris. Mes vieux mots partaient. Quand je suis sorti, je voyais les signes dans la rue clair, mais je ne savais plus le nom de ma *beach* à Batangas.
 
-Almira attendait moi dans le *lobby*. Son rire remplissait notre cuisine avant. Maintenant, elle était froide. Silencieuse. Elle bouge comme un *ghost*. Son Tagalog rapide et musical est parti. Un silence lourd et prudent à la place.
+Almira attendait moi dans le *lobby*. Son rire remplissait notre cuisine avant. Maintenant, elle était froide. Silencieuse. Elle bouge comme un *ghost*. Son *Tagalog* rapide et musical est parti. Un silence lourd et prudent à la place.
 
 Isabella est différente. Sa session était une chambre avec des couleurs et des bulles *digital*. C'était un *game*. Moins invasif. *Playful*. Elle riait. Elle comptait à dix en français parfait. Elle a aimé ça. Elle adapte. Elle est claire, comme l'homme en *suit* bleu. Très nette. Moi, je suis une vibration grise dans la *window*.
 
