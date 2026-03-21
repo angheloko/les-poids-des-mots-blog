@@ -25,12 +25,12 @@ L'odeur ne vient pas à moi. Je suis un *ghost* dans le gris. Je mange du *cardb
 
 J'essaye de chercher un mot. *Anak*. Ma fille.
 
-Ma langue est une barre de fer froid. Le *Phono-Sync* bourdonne. Un sifflement sec dans mes oreilles. Ma vision tremble, le monde perd les angles clairs. Mon cœur frappe mes côtes, un *bird* capturé.
+Ma langue est une barre de fer froid. *Le Phono-Sync hums*. Un sifflement sec dans mes oreilles. Ma vision tremble, le monde perd les angles clairs. Mon cœur frappe mes côtes, un oiseau capturé.
 
 « Oui », je dis avec voix cassée. « C'est... bon. »
 
 Le *static* part. Le monde est un blanc froid et stérile. La clarté fait mal.
 
-Isabella mange dans la clarté totale. Elle regarde pas nous. Elle vit déjà dans un monde que on ne voit pas. Elle monte. 
+Isabella mange dans la clarté totale. Elle regarde pas nous. Elle vit déjà dans un monde que on ne voit pas. Elle monte.
 
 Je regarde Almira. Un *ghost* de sourire sur ses lèvres. Elle voit la clarté aussi. Nous sommes la cendre. Isabella est la flamme. Ma poitrine serre. Pas pour le *Phono-Sync*. Pour le poids de le marché. Je suis fier de sa lumière. Nous sommes le *noise* pour elle être le signal.
