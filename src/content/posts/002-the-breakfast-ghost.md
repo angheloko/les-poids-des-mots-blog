@@ -22,4 +22,4 @@ J'ai essayé de dire "Magandang umaga" à Almira. Ma langue a frappé un mur. Un
 
 La résolution est revenue. *High-Def*. Froid. Stérile.
 
-Je me souviens le premier jour. L'aéroport. Manila était chaude. Montréal est un *freezer*. On a changé tous les pesos. Pas assez. Je vends mes mots pour avoir la lumière.
+Je me souviens le premier jour. Il y a un an. Le terminal sentait l'air recyclé et la peur. Manila était chaude. Montréal est un *freezer*. On a changé tous les pesos. Pas assez. Je vends mes mots pour avoir la lumière.
