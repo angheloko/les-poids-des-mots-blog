@@ -15,7 +15,7 @@ Almira regarde le pot. Ses yeux sont *dull*, lavés par le Brouillard. Elle cher
 
 Le *Phono-Sync* clique dans le mur. Un *warning*. La chambre devient sombre. Chaque *jagged* syllabe vide couleur de l'air. Les bords de le plancher tremblent dans un flou gris.
 
-Isabella regarde en haut. Sa face est un phare de lignes claires. Elle cligne pas les yeux. La lumière bleue de sa *tablet* de le Bureau peint sa peau avec un éclat électrique et froid.
+Isabella regarde en haut. Sa face est un *beacon* de lignes claires. Elle cligne pas les yeux. La lumière bleue de sa *tablet* de le Bureau peint sa peau avec un éclat électrique et froid.
 
 « L'école, maman. C'est féminin. Mes professeurs sont satisfaits. Le riz est parfait. »
 
