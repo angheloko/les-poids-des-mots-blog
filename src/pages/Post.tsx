@@ -60,13 +60,6 @@ export default function Post() {
         type="article" 
         slug={`post/${post.slug}`} 
       />
-      <Link 
-        to="/" 
-        className="inline-flex items-center text-xs font-mono text-solarized-base1 hover:text-solarized-blue mb-10 transition-colors group uppercase tracking-widest"
-      >
-        <ArrowLeft className="w-3 h-3 mr-2 group-hover:-translate-x-1 transition-transform" />
-        ../Retour_à_l_accueil
-      </Link>
 
       <header className="mb-12 pb-8 border-b-2 border-solarized-base2 border-dashed">
         <div className="flex gap-3 mb-6">
