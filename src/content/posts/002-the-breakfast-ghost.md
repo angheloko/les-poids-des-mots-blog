@@ -1,5 +1,5 @@
 ---
-title: Le Ghost de le Petit-Déjeuner
+title: Le Fantôme du Petit-Déjeuner
 slug: the-breakfast-ghost
 date: 2026-03-11
 excerpt: Le pain *pandesal* est sec. Le scanner au-dessus de la porte nous regarde. Ma langue est *glitchy*.
