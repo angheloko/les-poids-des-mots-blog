@@ -8,10 +8,12 @@ import Layout from './components/Layout';
 import Home from './pages/Home';
 import Post from './pages/Post';
 import About from './pages/About';
+import ScrollToTop from './components/ScrollToTop';
 
 export default function App() {
   return (
     <BrowserRouter>
+      <ScrollToTop />
       <Routes>
         <Route path="/" element={<Layout />}>
           <Route index element={<Home />} />
