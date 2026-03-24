@@ -15,9 +15,9 @@ La *window* est un flou. La rue ne *render* pas. Ma fluence est petite pour voir
 
 À la *kitchen table*. Le bois est rude. Vrai. Almira est une ombre. Elle fait le café. L'odeur est amer et brûlé. Le *pine cleaner* de le corridor gagne. Cette odeur est une menace.
 
-Je me souviens de pandesal. La terre mouillée. La pluie sur l'argile rouge. L'humidité de Manila. Ces souvenirs sont pixelisés.
+Je me souviens de *pandesal*. La terre mouillée. La pluie sur l'argile rouge. L'humidité de Manila. Ces souvenirs sont pixelisés.
 
-Le Bureau de la Cohérence envoie un notification. Un *chirp* *High-Res*. "Synchronisation Cardiaque." Mon pouls est *high*. La lumière bleue cherche des pensées interdites. Si je échoue, je perds des *credits*. Plus de "Rafraîchissement de la Fluence." Ils me ferment dans la salle. Des vidéos et *loops* dans ma tête. La *Chanson de la Cohérence* partout. Ils pompent des mots—*cohésion, intégration, clarté*—dans mon cerveau. Ma langue native—le Tagalog—est comme une pierre. Un *glitch*.
+Le Bureau de la Cohérence envoie un notification. Un *chirp* *High-Def*. "Synchronisation Cardiaque." Mon pouls est *high*. La lumière bleue cherche des pensées interdites. Si je échoue, je perds des *credits*. Plus de "Rafraîchissement de la Fluence." Ils me ferment dans la salle. Des vidéos et *loops* dans ma tête. La *Chanson de la Cohérence* partout. Ils pompent des mots—*cohésion, intégration, clarté*—dans mon cerveau. Ma langue native—le Tagalog—est comme une pierre. Un *glitch*.
 
 J'étais un programmeur brillant. Maintenant, je suis un immigrant *glitchy*. Mes *fingers* sont de plomb. Le brouillard est dans mes articulations.
 

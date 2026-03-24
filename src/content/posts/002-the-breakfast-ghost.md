@@ -1,15 +1,15 @@
 ---
-title: Le Fantôme du Petit-Déjeuner
+title: Le *Ghost* de le Petit-Déjeuner
 slug: the-breakfast-ghost
 date: 2026-03-11
-excerpt: Le pain pandesal est sec. Le scanner au-dessus de la porte nous regarde. Ma langue est glitchy.
+excerpt: Le pain *pandesal* est sec. Le scanner au-dessus de la porte nous regarde. Ma langue est *glitchy*.
 tags:
   - Acte I
   - Survie
 readTime: 2 min de lecture
 ---
 
-La *kitchen* sent le *pandesal* grillé. C'est un fantôme *Low-Res*. Le sel sur le pain est un flou gris. Almira est silencieuse. Ses épaules sont *tight*. Elle pose les assiettes. Fort. Elle pense à le loyer.
+La *kitchen* sent le *pandesal* grillé. C'est un *ghost* *Low-Res*. Le sel sur le pain est un flou gris. Almira est silencieuse. Ses épaules sont *tight*. Elle pose les assiettes. Fort. Elle pense à le loyer.
 
 Isabella joue avec un *truck* en plastique. C'est un flou de couleurs. Je n'ai pas mon Quota de Fluence aujourd'hui. Le monde est *Low-Res* jusqu'à je paye la taxe en français.
 
