@@ -1,13 +1,17 @@
 import { useParams, Link } from 'react-router-dom';
 import Markdown from 'react-markdown';
 import { posts } from '../lib/posts';
-import { ArrowLeft } from 'lucide-react';
+import { ArrowLeft, ArrowRight } from 'lucide-react';
 import SEO from '../components/SEO';
 import { useEffect } from 'react';
 
 export default function Post() {
   const { slug } = useParams();
-  const post = posts.find((p) => p.slug === slug);
+  const postIndex = posts.findIndex((p) => p.slug === slug);
+  const post = posts[postIndex];
+
+  const nextPost = postIndex > 0 ? posts[postIndex - 1] : null;
+  const prevPost = postIndex < posts.length - 1 ? posts[postIndex + 1] : null;
 
   useEffect(() => {
     if (!post) return;
@@ -86,15 +90,32 @@ export default function Post() {
         <Markdown>{post.content}</Markdown>
       </div>
 
-      <hr className="my-16 border-solarized-base1 border-dashed opacity-30" />
+      <div className="flex flex-col gap-8 mt-16 font-mono">
+        <div className="flex flex-col md:flex-row justify-between gap-4 border-t border-solarized-base2 pt-8">
+          {prevPost ? (
+            <Link 
+              to={`/post/${prevPost.slug}`}
+              className="flex-1 group"
+            >
+              <div className="flex items-center text-solarized-blue group-hover:text-solarized-orange transition-colors">
+                <ArrowLeft className="w-4 h-4 mr-2 group-hover:-translate-x-1 transition-transform" />
+                <span className="font-bold">{prevPost.title}</span>
+              </div>
+            </Link>
+          ) : <div className="flex-1" />}
 
-      <div className="flex justify-between items-center font-mono text-sm">
-        <Link 
-          to="/" 
-          className="text-solarized-blue hover:text-solarized-orange font-bold uppercase tracking-widest"
-        >
-          &lt;&lt; Retour aux archives
-        </Link>
+          {nextPost ? (
+            <Link 
+              to={`/post/${nextPost.slug}`}
+              className="flex-1 group text-right"
+            >
+              <div className="flex items-center justify-end text-solarized-blue group-hover:text-solarized-orange transition-colors">
+                <span className="font-bold">{nextPost.title}</span>
+                <ArrowRight className="w-4 h-4 ml-2 group-hover:translate-x-1 transition-transform" />
+              </div>
+            </Link>
+          ) : <div className="flex-1" />}
+        </div>
       </div>
     </article>
   );
