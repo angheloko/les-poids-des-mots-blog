@@ -1,7 +1,7 @@
 ---
 title: Le Marché des Couleurs Muettes
 slug: 005-le-marche-des-couleurs-muettes
-date: 2026-03-14
+date: 2026-03-28
 excerpt: Almira regarde les pommes. Les étiquettes sont floues. Elle ne peut pas lire le prix. Le monde est une tache grise pour elle. Je sens son pouls qui grimpe dans le Phono-Sync.
 frenchLevel: B1
 tags:
