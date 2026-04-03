@@ -1,11 +1,39 @@
 import { Link } from 'react-router-dom';
 import { posts } from '../lib/posts';
 import SEO from '../components/SEO';
+import { useEffect } from 'react';
 
 export default function Home() {
+  useEffect(() => {
+    const structuredData = {
+      "@context": "https://schema.org",
+      "@type": "Blog",
+      "name": "Les Poids des Mots",
+      "description": "Notes & Pensées du Bureau de la Cohérence.",
+      "url": "https://les-poids-des-mots.com",
+      "author": {
+        "@type": "Person",
+        "name": "Donato"
+      }
+    };
+
+    const script = document.createElement('script');
+    script.type = 'application/ld+json';
+    script.id = 'json-ld-home';
+    script.innerHTML = JSON.stringify(structuredData);
+    document.head.appendChild(script);
+
+    return () => {
+      const oldScript = document.getElementById('json-ld-home');
+      if (oldScript) document.head.removeChild(oldScript);
+    };
+  }, []);
+
   return (
     <div className="space-y-16">
-      <SEO />
+      <SEO 
+        description="Notes & Pensées du Bureau de la Cohérence. Donato documente le prix de l'appartenance et l'intégration dans la grille sémantique, de Manille à Montréal."
+      />
       <section className="mb-20 border-l-4 border-solarized-base01 pl-6 py-2">
         <h1 className="text-5xl font-serif font-bold text-solarized-base01 mb-6 tracking-tight">
           Notes & Pensées

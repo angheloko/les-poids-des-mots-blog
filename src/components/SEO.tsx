@@ -42,6 +42,18 @@ export default function SEO({
     // Update Meta Tags
     updateMetaTag('meta[name="description"]', 'content', description);
     
+    // Canonical Link
+    const canonicalUrl = `${BASE_URL}${slug ? `/${slug}` : ''}`;
+    let canonical = document.querySelector('link[rel="canonical"]');
+    if (canonical) {
+      canonical.setAttribute('href', canonicalUrl);
+    } else {
+      const link = document.createElement('link');
+      link.setAttribute('rel', 'canonical');
+      link.setAttribute('href', canonicalUrl);
+      document.head.appendChild(link);
+    }
+    
     // Open Graph
     updateMetaTag('meta[property="og:title"]', 'content', fullTitle);
     updateMetaTag('meta[property="og:description"]', 'content', description);

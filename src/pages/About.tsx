@@ -1,6 +1,30 @@
 import SEO from '../components/SEO';
+import { useEffect } from 'react';
 
 export default function About() {
+  useEffect(() => {
+    const structuredData = {
+      "@context": "https://schema.org",
+      "@type": "AboutPage",
+      "mainEntity": {
+        "@type": "Person",
+        "name": "Donato",
+        "description": "Un développeur de Manille à Montréal, documentant son intégration dans la grille sémantique."
+      }
+    };
+
+    const script = document.createElement('script');
+    script.type = 'application/ld+json';
+    script.id = 'json-ld-about';
+    script.innerHTML = JSON.stringify(structuredData);
+    document.head.appendChild(script);
+
+    return () => {
+      const oldScript = document.getElementById('json-ld-about');
+      if (oldScript) document.head.removeChild(oldScript);
+    };
+  }, []);
+
   return (
     <div className="max-w-2xl">
       <SEO 

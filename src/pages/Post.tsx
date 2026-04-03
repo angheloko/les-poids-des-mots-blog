@@ -32,11 +32,13 @@ export default function Post() {
 
     const script = document.createElement('script');
     script.type = 'application/ld+json';
+    script.id = 'json-ld-post';
     script.innerHTML = JSON.stringify(structuredData);
     document.head.appendChild(script);
 
     return () => {
-      document.head.removeChild(script);
+      const oldScript = document.getElementById('json-ld-post');
+      if (oldScript) document.head.removeChild(oldScript);
     };
   }, [post]);
 
