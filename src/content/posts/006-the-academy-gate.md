@@ -11,37 +11,6 @@ tags:
 readTime: 4 min de lecture
 ---
 
-# Entry 006: The Academy Gate
-
-## Council Notes (Internal Memos)
-
-*   **The Architect**: The transition must be seamless but the emotional distance must widen. Avoid repetitive beats of rejection; let the environment do the heavy lifting.
-*   **The Cultural Mirror**: The exclusion is social and atmospheric. Donato's failure is a ripple in a still pond.
-*   **Tech Audit**: Keep the tech present but not over-described. The environment is the arbiter of truth.
-*   **The Linguistic Stylist**: Strip away the "She doesn't" crutch. Use more active descriptions of her assimilation. Remove the melodramatic "She belongs to the light now." End the scene abruptly on Isabella's departure. Isabella is a "Native"; her entry is silent and automatic, not a checkpoint. Donato is at a B2 level; his "Bonjour" is clear and correct. The failure is social, not phonetic. The silence of her absence is the weight.
-
-## English Version (Internal Monologue)
-
-The Academy gate hums with a low, electronic hunger. It is a wall of glass and light that resolves the world into sharp, painful edges. No Fog here. Above the arch, a digital mural of children dancing is so vivid the colors feel like a physical weight.
-
-Isabella walks three paces ahead. Her backpack is a bright, clinical yellow. Her uniform is crisp, a shade of blue that hurts my eyes. She is moving toward the threshold.
-
-I stop ten feet from the archway. My pulse is a thick, rhythmic thud in my ears. I feel the Phono-Sync sensors in the archway tasting my sweat, measuring the rhythm of my breath. A group of parents stands near the glass. They are polished. Their coats have sharp creases. Their faces are smooth, unblinking screens. They don't speak; they radiate a collective, high-resolution silence.
-
-One woman, her hair a lacquered helmet of black, looks at me. Her eyes are cold lenses. She sees the blur around my hands and the way the pavement loses its edges where I stand.
-
-"Bonjour," I say.
-
-The word is clear. Simple. But it dies in the air between us. I am a ghost trying to speak to the living.
-
-The woman's lip curls. A micro-movement of disgust, rendered in perfect clarity. 
-
-Isabella avoids my gaze. She walks. She crosses the threshold where glass meets pavement. The blur peels from her yellow backpack, its edges sharpening into surgical light. She flows into the stream of children. Her voice rings out, a clear chime as she greets the teacher.
-
-At the last moment, she glances back. For a second, her eyes search for something in my face. But I am just a gray shape in the distance.
-
-## Version Française (Niveau B2)
-
 La porte de l'Académie bourdonne d'une faim électronique légère. C'est un mur de verre et de lumière qui transforme le monde en bords tranchants et douloureux. Pas de brouillard ici. Au-dessus de l'arche, une murale numérique d'enfants qui dansent est si vive que les couleurs ressemblent à un poids physique.
 
 Isabella marche trois pas devant moi. Son sac à dos est d'un jaune clinique et brillant. Son uniforme est impeccable, d'un bleu qui me brûle les yeux. Elle se dirige vers le seuil.
